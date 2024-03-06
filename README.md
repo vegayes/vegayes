@@ -6,8 +6,7 @@ Language:
 Tool:
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 
-Platform:
-<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constmine)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
