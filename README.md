@@ -6,8 +6,11 @@ Language:
 Tool:
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegayes)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=constmine&show_icons=true)  
 
 <!--
 **vegayes/vegayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
