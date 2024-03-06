@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is vegayes
+
+Language: 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+Tool:
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
+
+Platform:
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white"/>
+
 
 <!--
 **vegayes/vegayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
