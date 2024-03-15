@@ -3,12 +3,17 @@
 Language: 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-007396?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-007396?style=flat-square&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
+
+
 
 Tool:
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pycharm -000000?style=flat-square&logo=Pycharm-IDEA&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Eclipse -000000?style=flat-square&logo=Eclipse&logoColor=purple"/>
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegayes)](https://github.com/anuraghazra/github-readme-stats)
